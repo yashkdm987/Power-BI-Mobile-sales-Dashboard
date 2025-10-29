@@ -71,3 +71,65 @@ During the development of this project, I gained practical experience in the com
 - **Total Sales:** Total revenue generated (calculated)
 
 - **Profit:** Profit earned from each transaction or product
+
+---
+
+<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+
+- **Microsoft Power BI:** For data visualization, dashboard creation, and KPI analysis
+
+- **Power Query:** For data cleaning, transformation, and preparation
+
+- **DAX (Data Analysis Expressions):** For creating custom measures and calculated columns
+
+- **Microsoft Excel:** For storing and managing raw sales data before importing into Power BI
+
+- **GitHub:** For project version control and portfolio presentation
+
+- ---
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
+```
+Power-BI-Mobile-Sales-Dashboard/
+│
+├── 📄 Mobile_Sales_Dashboard.pbix        # Main Power BI dashboard file
+├── 📊 Mobile_Sales_Data.xlsx              # Raw dataset used for analysis
+├── 📸 Dashboard_Screenshots/              # Folder containing dashboard visuals
+├── 📜 README.md                           # Project documentation file
+└── 📁 Additional_Files/                   # (Optional) Supporting or reference files
+```
+
+---
+<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
+
+1. Data Import:
+
+- Loaded the raw sales dataset from Excel into Power BI.
+
+2. Removed Duplicates & Missing Values:
+
+- Checked for duplicate entries and blank rows, and removed unnecessary records.
+
+3. Standardized Column Names:
+
+- Renamed columns (e.g., “Prod” → “Product”, “Qty” → “Quantity Sold”) for better readability.
+
+4. Data Type Correction:
+
+- Ensured correct data types for each column (e.g., Date, Text, Numeric).
+
+5. Calculated Columns Creation:
+
+- Added new calculated fields such as:
+
+- Total Sales = Quantity × Unit Price
+
+- Profit Margin = (Profit / Total Sales) × 100
+
+6. Data Filtering:
+
+- Filtered out irrelevant or incomplete data to maintain consistency.
+
+7. Data Model Setup:
+
+- Established relationships (if multiple tables) and created a clean, structured data model ready for analysis.
