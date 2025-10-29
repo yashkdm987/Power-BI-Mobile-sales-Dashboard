@@ -1,6 +1,6 @@
 # Power-BI-Mobile-sales-Dashboard
 
-Pharma Drug Sales Analysis using Power BI. Explore sales trends, top-performing drugs, and regional insights through interactive dashboards and visualizations.
+Interactive Power BI dashboard for analyzing mobile sales data and business performance.
 
 ---
 
@@ -17,3 +17,38 @@ Pharma Drug Sales Analysis using Power BI. Explore sales trends, top-performing 
 - <a href="#author--contact">Author & Contact</a>
 
 ---
+<h2><a class="anchor" id="overview"></a>Overview</h2>
+
+The Power BI Mobile Sales Dashboard provides a detailed analysis of mobile sales performance across different regions, brands, and time periods. The project aims to help business teams track key performance indicators (KPIs) such as total sales, profit margins, quantity sold, and regional growth trends.
+
+This dashboard offers an interactive and visually appealing interface that enables users to:
+
+- Monitor overall sales performance and revenue trends
+
+- Compare brand-wise and category-wise sales data
+
+- Identify top-performing regions and products
+
+- Support data-driven decision-making through real-time insights
+
+By leveraging Power BI’s visualization capabilities, this project transforms raw sales data into actionable insights for better business strategy and performance tracking.
+
+---
+<h2><a class="anchor" id="project-learning"></a>project-learning</h2>
+
+During the development of this project, I gained practical experience in the complete Power BI workflow — from data collection to dashboard creation. Key learnings include:
+
+- Data Cleaning & Transformation:
+  Used Power Query to clean, format, and prepare raw sales data for analysis.
+
+- Data Modeling:
+  Created relationships between multiple tables and built an optimized data model to ensure accurate visualizations.
+
+- DAX Calculations:
+  Learned to write DAX measures and calculated columns to derive KPIs such as Total Sales, Profit, and Quantity Sold.
+
+- Dashboard Design:
+  Developed an interactive and visually appealing dashboard using Power BI visuals like cards, charts, and slicers.
+
+- Insights Generation:
+  Interpreted business insights from data trends, such as identifying top-performing brands and high-sales regions.
