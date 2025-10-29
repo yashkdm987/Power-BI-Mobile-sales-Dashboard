@@ -52,3 +52,22 @@ During the development of this project, I gained practical experience in the com
 
 - **Insights Generation:**
   Interpreted business insights from data trends, such as identifying top-performing brands and high-sales regions.
+
+---
+<h2><a class="anchor" id="dataset"></a>Dataset</h2>
+
+- **Date:** Transaction date of each sale
+
+- **Product:** Name or model of the mobile phone
+
+- **Brand:** Brand associated with the product
+
+- **Region:** Geographic region where the sale occurred
+
+- **Quantity Sold:** Number of units sold
+
+- **Unit Price:** Selling price per unit
+
+- **Total Sales:** Total revenue generated (calculated)
+
+- **Profit:** Profit earned from each transaction or product
