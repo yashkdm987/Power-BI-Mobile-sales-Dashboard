@@ -38,22 +38,17 @@ By leveraging Power BI’s visualization capabilities, this project transforms r
 
 During the development of this project, I gained practical experience in the complete Power BI workflow — from data collection to dashboard creation. Key learnings include:
 
-- Data Cleaning & Transformation:
-
+- **Data Cleaning & Transformation:**
   Used Power Query to clean, format, and prepare raw sales data for analysis.
 
-- Data Modeling:
-
+- **Data Modeling:**
   Created relationships between multiple tables and built an optimized data model to ensure accurate visualizations.
 
-- DAX Calculations:
-
+- **DAX Calculations:**
   Learned to write DAX measures and calculated columns to derive KPIs such as Total Sales, Profit, and Quantity Sold.
 
-- Dashboard Design:
-
+- **Dashboard Design:**
   Developed an interactive and visually appealing dashboard using Power BI visuals like cards, charts, and slicers.
 
-- Insights Generation:
-
+- **Insights Generation:**
   Interpreted business insights from data trends, such as identifying top-performing brands and high-sales regions.
