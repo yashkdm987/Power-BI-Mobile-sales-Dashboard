@@ -102,23 +102,23 @@ Power-BI-Mobile-Sales-Dashboard/
 ---
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
-1. Data Import:
+**1. Data Import:**
 
 - Loaded the raw sales dataset from Excel into Power BI.
 
-2. Removed Duplicates & Missing Values:
+**2. Removed Duplicates & Missing Values:**
 
 - Checked for duplicate entries and blank rows, and removed unnecessary records.
 
-3. Standardized Column Names:
+**3. Standardized Column Names:**
 
 - Renamed columns (e.g., “Prod” → “Product”, “Qty” → “Quantity Sold”) for better readability.
 
-4. Data Type Correction:
+**4. Data Type Correction:**
 
 - Ensured correct data types for each column (e.g., Date, Text, Numeric).
 
-5. Calculated Columns Creation:
+**5. Calculated Columns Creation:**
 
 - Added new calculated fields such as:
 
@@ -126,10 +126,46 @@ Power-BI-Mobile-Sales-Dashboard/
 
 - Profit Margin = (Profit / Total Sales) × 100
 
-6. Data Filtering:
+**6. Data Filtering:**
 
 - Filtered out irrelevant or incomplete data to maintain consistency.
 
-7. Data Model Setup:
+**7. Data Model Setup:**
 
 - Established relationships (if multiple tables) and created a clean, structured data model ready for analysis.
+
+---
+<h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
+
+1. Clone or Download the Repository
+```bash
+git clone https://github.com/yashkdm987/Power-BI-Mobile-sales-Dashboard.git
+```
+
+2. Open Power BI Desktop
+  - `If you don’t have it, download Power BI Desktop`
+
+3. Connect or Refresh the Dataset
+  - `Ensure the dataset (.csv files) in the Dataset folder are correctly linked.`
+  - `Click “Refresh” in Power BI to load the latest data.`
+
+4. Explore the Dashboard
+  - `Interact with filters, slicers, and charts.`
+  - `View sales performance by product, region, and time period.`
+
+---
+<h2><a class="anchor" id="conclusion"></a>conclusion</h2>
+
+The Power BI Mobile Sales Dashboard successfully transforms raw sales data into meaningful and interactive business insights. By visualizing key metrics such as total sales, profit, and regional performance, this dashboard helps stakeholders make data-driven decisions with ease.
+
+Through this project, I enhanced my skills in data cleaning, DAX calculations, and dashboard design while learning how to present complex sales data in a simple and visually appealing way.
+
+This dashboard can be further expanded by integrating live data sources or automating data refresh to support real-time analytics and business forecasting.
+
+---
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+**Yash Kadam**  
+Data Analyst  
+📧 Email: yashkadam3000@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/yash-kadam-ba2688211/)
